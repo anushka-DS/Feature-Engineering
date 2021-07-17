@@ -4,9 +4,9 @@ Feature engineering is the process of using domain knowledge to extract features
 
 * **CampusX** https://www.youtube.com/playlist?list=PLKnIA16_RmvYXWH_E6PuVLLHHTWXwwDN7
 
-* **Medium Articles**  :
+* **Medium Articles**  here ==>  https://medium.com/tag/feature-engineering
 
-*  https://medium.com/tag/feature-engineering
+
 *  https://medium.com/@michaelabehsera/feature-engineering-cookbook-for-machine-learning-7bf21f0bcbae 
 *  https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114 
 *  https://towardsdatascience.com/tagged/feature-engineering
